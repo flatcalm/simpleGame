@@ -3,6 +3,10 @@ body {
     text-align: center;
 }
 
+.hide {
+    display: none;
+}
+
 h1 {
     margin-top: 50px;
 }
